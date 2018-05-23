@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-  width: 500px;   /* This sets the width */
+  width: 700px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
 }
 
